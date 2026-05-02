@@ -9,3 +9,5 @@ bcrypt==3.2.2
 pydantic[email]==2.7.1
 pydantic-settings==2.2.1
 PyMySQL
+sqlalchemy
+mysqlclient

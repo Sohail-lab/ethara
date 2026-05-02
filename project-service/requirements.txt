@@ -7,3 +7,5 @@ python-jose[cryptography]==3.3.0
 pydantic==2.7.1
 pydantic-settings==2.2.1
 PyMySQL
+sqlalchemy
+mysqlclient
